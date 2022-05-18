@@ -1,6 +1,6 @@
 name: flutter_ip_adapter_info
 description: Gets information like macAddress or ipAddress from `IP_ADAPTER_INFO`
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/prepola/flutter_ip_adapter_info
 
 environment:
